@@ -1,1 +1,2 @@
 Fil för att öva git.
+Nu har vi en ny rad.
