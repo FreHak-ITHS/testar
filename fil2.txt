@@ -1,1 +1,3 @@
 Detta är en ny fil
+Test från stationär dator
+
